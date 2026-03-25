@@ -1,5 +1,5 @@
-import requests
 import argparse
+import requests
 import csv
 import json
 import time
