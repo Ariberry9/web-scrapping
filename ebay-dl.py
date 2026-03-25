@@ -1,3 +1,4 @@
+import requests
 import argparse
 import csv
 import json
